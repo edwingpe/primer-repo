@@ -19,3 +19,5 @@ git commit -m "(mensaje)": Subir a repositorio local los cambios realizados en l
 
 git push : Subir al repositorio online (GitHub).
 git push -u origin (nombre de la rama): SUbir al repositorio remoto, en alguna rama.
+
+Secuencia: add, commit, push.

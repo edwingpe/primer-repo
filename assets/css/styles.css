@@ -1,0 +1,47 @@
+/* etiqueta HTML VA DIRECTAMENTE EL NOMBRE 
+    CLASES va con PUNTO "." ADELANTE
+    ID va con HASHTAG "#" ADELANTE
+*/
+
+body{
+    background-color: rgb(194, 196, 195);
+    color: black;
+}
+
+.banner{
+    display: flex;
+    align-items: flex-end;
+}
+
+#social{
+    text-align: center;
+    margin: auto;
+}
+
+li{
+    list-style-type: none;
+    margin-left: -4%;
+}
+
+.img-perfil{
+    border-radius: 100%;
+    width: 300px;
+    height: 300px;
+    border: 10px solid black;
+}
+
+.nombre-perfil{
+    font-size: 5rem;
+}
+
+.apellido-perfil{
+    color: beige;
+}
+
+.video {
+    margin: 7rem 2rem 0rem 50rem;
+}
+
+.mapa{
+    padding: 10%;
+}
